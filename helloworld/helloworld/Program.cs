@@ -6,7 +6,7 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World my project!");
+            Console.WriteLine("Hello World my project firt pro!");
         }
     }
 }
