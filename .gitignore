@@ -3,3 +3,6 @@
 ################################################################################
 
 *.suo
+/.vs
+/helloworld/.vs/helloworld/v15/Server/sqlite3
+/helloworld/helloworld/obj
